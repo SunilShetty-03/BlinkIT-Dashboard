@@ -26,7 +26,10 @@ Reveals trends in outlet performance and customer feedback.
 
 Walkthrough of Key Visuals
 
-Key KPIs (Top Left) Total Sales: $1.20M Average Sales: $141 No of Items: 8523 Average Rating: 3.9
+Key KPIs (Top Left) Total Sales: $1.20M 
+Average Sales: $141 
+No of Items: 8523 
+Average Rating: 3.9
 Filter Panel Interactive slicers allow users to filter by outlet location type, pack size, and item type.
 Fat Content by Outlet (Donut Chart) Displays the distribution of low fat and regular items across outlets.
 Item Type (Bar Chart) Bar chart ranks item types like Meat, Frozen, and Dairy by average rating.
