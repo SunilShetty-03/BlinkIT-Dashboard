@@ -42,7 +42,8 @@ Marketing Strategy: Teams can target promotions based on popular item types and 
 Customer Satisfaction: Insights into ratings help improve service quality.
 Regional Planning: Sales trends assist in planning outlet expansions.
 
-Screenshots / Demos
+DashBoard:
+https://github.com/SunilShetty-03/BlinkIT-Dashboard/blob/main/Snapshot%20of%20BlinkIT%20Dashboard.png
 
 
 
